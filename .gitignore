@@ -1,0 +1,12 @@
+```gitignore
+# File cache Python
+__pycache__/
+*.py[cod]
+
+# Konfigurasi lokal VS Code
+.vscode/
+
+# File lingkungan virtual
+.venv/
+venv/
+```
